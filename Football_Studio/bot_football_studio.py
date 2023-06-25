@@ -10,7 +10,7 @@ class WebScraper:
     def __init__(self):
         # EDIT!
         self.game = "Football Studio"
-        self.token = 'TOKEN BOT'
+        self.token = 'sdfsd
         self.chat_id = 'CHAT ID'
         self.url_API = 'http://api.mxvinvest.com:63000/football-studio'
         self.gales = 2
